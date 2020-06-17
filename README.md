@@ -27,7 +27,7 @@ O NLW é uma experiência online com muito conteúdo prático, desafios e hacks 
 ### 🎨 Interface
 
 <h1 align="center">
-  <img alt="interface" title="interface" src="assets/interface.PNG" width='500px'>
+  <img alt="interface" title="interface" src="assets/interface.PNG" width='600px'>
 </h1>
 
 ### :space_invader: Tecnologias
@@ -120,9 +120,7 @@ $ npm start
 
 ### :page_with_curl: Licença
 
-```bash
 Este projeto esta sobe a licença MIT.
-```
 
 ### :iphone: Social
 
