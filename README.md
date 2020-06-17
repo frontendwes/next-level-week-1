@@ -27,7 +27,7 @@ O NLW é uma experiência online com muito conteúdo prático, desafios e hacks 
 ### 🎨 Interface
 
 <h1 align="center">
-  <img alt="interface" title="interface" src="assets/interface.PNG" width='600px'>
+  <img alt="interface" title="interface" src="assets/interface.PNG" width='800px'>
 </h1>
 
 ### :space_invader: Tecnologias
