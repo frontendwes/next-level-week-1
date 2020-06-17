@@ -17,7 +17,7 @@
   </a>
 </p>
 
-### :bookmark: Sobre o projeto
+### :rocket: Sobre o projeto
 
 Ecoleta - é uma forma de conectar empresas e entidades de coleta de resíduos orgânicos e inorgânicos as pessoas que precisam descartar seus resíduos de maneira ecológica.
 
@@ -48,7 +48,7 @@ O layout da aplicação está disponível no Figma:
   <img alt="Made by tgmarinho" src="https://img.shields.io/badge/Acessar%20Layout%20-Figma-%2304D361">
 </a>
 
-### 🛠 Tecnologias
+### :space_invader: Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
@@ -58,7 +58,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [React Native][rn]
 - [TypeScript][typescript]
 
-### 🚀 Manual para execução
+### :computer: Manual para execução
 
 #### Pré-requisitos
 
@@ -129,7 +129,7 @@ $ npm install
 $ npm start
 ```
 
-## 😯 Como contribuir para o projeto
+## :octocat: Como contribuir para o projeto
 
 1. Faça um **fork** do projeto.
 2. Crie uma nova branch com as suas alterações: `git checkout -b my-feature`
@@ -137,11 +137,31 @@ $ npm start
 4. Envie as suas alterações: `git push origin my-feature`
    > Caso tenha alguma dúvida confira este [guia de como contribuir no GitHub](https://github.com/firstcontributions/first-contributions)
 
-## 📝 Licença
+## :page_with_curl: Licença
 
 Este projeto esta sobe a licença MIT.
 
-Feito com ❤️ por Wesley Marques 👋🏽 [Entre em contato!](https://www.linkedin.com/in/wesley-marques-profile/)
+### :email: Social
+
+Me acompanhe nas minhas redes sociais.
+
+<p align="left">
+  
+  <a href="mailto:wes.academico@gmail.com" target="_blank" >
+    <img alt="Email" src="https://img.shields.io/badge/Email--%23F8952D?style=social&logo=gmail"></a>
+
+  <a href="https://www.linkedin.com/in/wesley-marques-profile/" target="_blank" >
+    <img alt="Linkedin" src="https://img.shields.io/badge/Linkedin--%23F8952D?style=social&logo=linkedin"></a>
+  
+  <a href="https://www.facebook.com/wesley.marques.profile" target="_blank" >
+    <img alt="Facebook" src="https://img.shields.io/badge/Facebook--%23F8952D?style=social&logo=facebook"></a>
+  
+  <a href="https://api.whatsapp.com/send?phone=5553991654395" target="_blank" >
+    <img alt="WhatsApp" src="https://img.shields.io/badge/Whatsapp--%23F8952D?style=social&logo=whatsapp"></a>  
+    
+  <a href="https://www.instagram.com/weesmarques/" target="_blank" >
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram--%23F8952D?style=social&logo=instagram"></a>
+</p>
 
 [nodejs]: https://nodejs.org/
 [typescript]: https://www.typescriptlang.org/
