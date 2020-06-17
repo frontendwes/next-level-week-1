@@ -27,7 +27,7 @@ O NLW é uma experiência online com muito conteúdo prático, desafios e hacks 
 ### 🎨 Interface
 
 <h1 align="center">
-  <img alt="interface" title="interface" src="assets/interface.png">
+  <img alt="interface" title="interface" src="assets/interface.PNG" width='500px'>
 </h1>
 
 ### :space_invader: Tecnologias
@@ -111,7 +111,7 @@ $ npm install
 $ npm start
 ```
 
-### :octocat: Como contribuir para o projeto
+### :recycle: Como contribuir para o projeto
 
 1. Faça um **fork** do projeto.
 2. Crie uma nova branch com as suas alterações: `git checkout -b my-feature`
@@ -124,7 +124,7 @@ $ npm start
 Este projeto esta sobe a licença MIT.
 ```
 
-### :email: Social
+### :iphone: Social
 
 <p align="left">
   
