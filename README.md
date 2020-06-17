@@ -19,12 +19,10 @@
 
 ### :rocket: Sobre o projeto
 
-```bash
 Ecoleta - é uma forma de conectar empresas e entidades de coleta de resíduos orgânicos e inorgânicos as pessoas que precisam descartar seus resíduos de maneira ecológica.
 
 Projeto desenvolvido durante a **NLW - Next Level Week** oferecida pela [Rocketseat](rs).
 O NLW é uma experiência online com muito conteúdo prático, desafios e hacks onde o conteúdo fica disponível durante uma semana.
-```
 
 ### 🎨 Interface
 
@@ -128,10 +126,6 @@ Este projeto esta sobe a licença MIT.
 
 ### :email: Social
 
-```bash
-Me acompanhe nas minhas redes sociais.
-```
-
 <p align="left">
   
   <a href="mailto:wes.academico@gmail.com" target="_blank" >
@@ -149,6 +143,10 @@ Me acompanhe nas minhas redes sociais.
   <a href="https://www.instagram.com/weesmarques/" target="_blank" >
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram--%23F8952D?style=social&logo=instagram"></a>
 </p>
+
+---
+
+<sup>Projeto desenvolvido com a tutoria de [Diego Fernandes](https://github.com/diego3g), da [Rocketseat](rocketseat.com.br).</sup>
 
 [nodejs]: https://nodejs.org/
 [typescript]: https://www.typescriptlang.org/
