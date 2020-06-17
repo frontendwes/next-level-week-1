@@ -17,22 +17,16 @@
   </a>
 </p>
 
-## 💻 Sobre o projeto
+### :bookmark: Sobre o projeto
 
-♻️ Ecoleta - é uma forma de conectar empresas e entidades de coleta de resíduos orgânicos e inorgânicos as pessoas que precisam descartar seus resíduos de maneira ecológica.
+Ecoleta - é uma forma de conectar empresas e entidades de coleta de resíduos orgânicos e inorgânicos as pessoas que precisam descartar seus resíduos de maneira ecológica.
 
 Projeto desenvolvido durante a **NLW - Next Level Week** oferecida pela [Rocketseat](rs).
 O NLW é uma experiência online com muito conteúdo prático, desafios e hacks onde o conteúdo fica disponível durante uma semana.
 
-## 🎨 Layout
+### 🎨 Interface
 
-O layout da aplicação está disponível no Figma:
-
-<a href="https://www.figma.com/file/1SxgOMojOB2zYT0Mdk28lB/Ecoleta?node-id=136%3A546">
-  <img alt="Made by tgmarinho" src="https://img.shields.io/badge/Acessar%20Layout%20-Figma-%2304D361">
-</a>
-
-### Mobile
+#### Mobile
 
 <p align="center">
   <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/home-mobile.png" width="200px">
@@ -40,7 +34,7 @@ O layout da aplicação está disponível no Figma:
   <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/detalhes-mobile.svg" width="200px">
 </p>
 
-### Web
+#### Web
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
   <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/web.svg" width="400px">
@@ -48,7 +42,13 @@ O layout da aplicação está disponível no Figma:
   <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/sucesso-web.svg" width="400px">
 </p>
 
-## 🛠 Tecnologias
+O layout da aplicação está disponível no Figma:
+
+<a href="https://www.figma.com/file/1SxgOMojOB2zYT0Mdk28lB/Ecoleta?node-id=136%3A546">
+  <img alt="Made by tgmarinho" src="https://img.shields.io/badge/Acessar%20Layout%20-Figma-%2304D361">
+</a>
+
+### 🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
@@ -58,23 +58,28 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [React Native][rn]
 - [TypeScript][typescript]
 
-## 🚀 Como executar o projeto
+### 🚀 Manual para execução
 
+#### Pré-requisitos
+
+- É **necessário** possuir o **[Node.js](https://nodejs.org/en/)** instalado no computador
+- É **necessário** possuir o **[Git](https://git-scm.com/)** instalado e configurado no computador
+- Também, é **preciso** ter um gerenciador de pacotes seja o **[NPM](https://www.npmjs.com/)** ou **[Yarn](https://yarnpkg.com/)**.
+- Por fim, é **essencial** ter o **[Expo](https://expo.io/)** instalado de forma global na máquina
+
+#### Como executar
+
+```bash
 Podemos considerar este projeto como sendo divido em três partes:
 
 1. Back End (pasta server)
 2. Front End (pasta web)
 3. Mobile (pasta mobile)
 
-💡Tanto o Front End quanto o Mobile precisam que o Back End esteja sendo executado para funcionar.
+Tanto o Front-End quanto o Mobile precisam que o Back-End esteja sendo executado para funcionar.
+```
 
-### Pré-requisitos
-
-Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-[Git](https://git-scm.com), [Node.js][nodejs].
-Além disto é bom ter um editor para trabalhar com o código como [VSCode][vscode]
-
-### 🎲 Rodando o Back End (servidor)
+### 1.Rodando o Back End (servidor)
 
 ```bash
 # Clone este repositório
@@ -132,7 +137,7 @@ $ npm run start
 
 Este projeto esta sobe a licença MIT.
 
-Feito com ❤️ por Wesley Marques 👋🏽 [Entre em contato!](https://www.linkedin.com/in/tgmarinho/)
+Feito com ❤️ por Wesley Marques 👋🏽 [Entre em contato!](https://www.linkedin.com/in/wesley-marques-profile/)
 
 [nodejs]: https://nodejs.org/
 [typescript]: https://www.typescriptlang.org/
