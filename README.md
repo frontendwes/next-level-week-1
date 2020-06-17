@@ -78,13 +78,13 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode][vsco
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/tgmarinho/nlw1
+$ git clone https://github.com/WesleyMarquesGit/Ecoleta.git
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd nlw1
+$ cd Ecoleta
 
 # Vá para a pasta server
-$ cd server
+$ cd backend
 
 # Instale as dependências
 $ npm install
@@ -99,10 +99,10 @@ $ npm run dev:server
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/tgmarinho/nlw1
+$ git clone https://github.com/WesleyMarquesGit/Ecoleta.git
 
 # Acesse a pasta do projeto no seu terminal/cmd
-$ cd nlw1
+$ cd ecoleta
 
 # Vá para a pasta da aplicação Front End
 $ cd web
@@ -118,7 +118,7 @@ $ npm run start
 
 ### 📱Rodando a aplicação mobile
 
-🚧 Em construção... 🚧
+\$ npm install -g expo-cli
 
 ## 😯 Como contribuir para o projeto
 
@@ -132,7 +132,7 @@ $ npm run start
 
 Este projeto esta sobe a licença MIT.
 
-Feito com ❤️ por Thiago Marinho 👋🏽 [Entre em contato!](https://www.linkedin.com/in/tgmarinho/)
+Feito com ❤️ por Wesley Marques 👋🏽 [Entre em contato!](https://www.linkedin.com/in/tgmarinho/)
 
 [nodejs]: https://nodejs.org/
 [typescript]: https://www.typescriptlang.org/
