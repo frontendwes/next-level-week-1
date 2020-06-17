@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/banner.png" />
+    <img alt="Ecoleta" title="#NextLevelWeek" src="assets/logo.png" />
 </h1>
 
 <p align="center">
@@ -29,24 +29,8 @@ O NLW é uma experiência online com muito conteúdo prático, desafios e hacks 
 #### Mobile
 
 <p align="center">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/home-mobile.png" width="200px">
-
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/detalhes-mobile.svg" width="200px">
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="" width="200px">
 </p>
-
-#### Web
-
-<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/web.svg" width="400px">
-
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/sucesso-web.svg" width="400px">
-</p>
-
-O layout da aplicação está disponível no Figma:
-
-<a href="https://www.figma.com/file/1SxgOMojOB2zYT0Mdk28lB/Ecoleta?node-id=136%3A546">
-  <img alt="Made by tgmarinho" src="https://img.shields.io/badge/Acessar%20Layout%20-Figma-%2304D361">
-</a>
 
 ### :space_invader: Tecnologias
 
@@ -135,15 +119,18 @@ $ npm start
 2. Crie uma nova branch com as suas alterações: `git checkout -b my-feature`
 3. Salve as alterações e crie uma mensagem de commit contando o que você fez: `git commit -m "feature: My new feature"`
 4. Envie as suas alterações: `git push origin my-feature`
-   > Caso tenha alguma dúvida confira este [guia de como contribuir no GitHub](https://github.com/firstcontributions/first-contributions)
 
 ### :page_with_curl: Licença
 
+```bash
 Este projeto esta sobe a licença MIT.
+```
 
 ### :email: Social
 
+```bash
 Me acompanhe nas minhas redes sociais.
+```
 
 <p align="left">
   
