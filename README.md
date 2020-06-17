@@ -129,7 +129,7 @@ $ npm install
 $ npm start
 ```
 
-## :octocat: Como contribuir para o projeto
+### :octocat: Como contribuir para o projeto
 
 1. Faça um **fork** do projeto.
 2. Crie uma nova branch com as suas alterações: `git checkout -b my-feature`
@@ -137,7 +137,7 @@ $ npm start
 4. Envie as suas alterações: `git push origin my-feature`
    > Caso tenha alguma dúvida confira este [guia de como contribuir no GitHub](https://github.com/firstcontributions/first-contributions)
 
-## :page_with_curl: Licença
+### :page_with_curl: Licença
 
 Este projeto esta sobe a licença MIT.
 
