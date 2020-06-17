@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Ecoleta" title="#NextLevelWeek" src="assets/logo.png" />
+    <img alt="Ecoleta" title="Ecoleta" src="assets/logo.png" />
 </h1>
 
 <p align="center">
@@ -19,18 +19,18 @@
 
 ### :rocket: Sobre o projeto
 
+```bash
 Ecoleta - é uma forma de conectar empresas e entidades de coleta de resíduos orgânicos e inorgânicos as pessoas que precisam descartar seus resíduos de maneira ecológica.
 
 Projeto desenvolvido durante a **NLW - Next Level Week** oferecida pela [Rocketseat](rs).
 O NLW é uma experiência online com muito conteúdo prático, desafios e hacks onde o conteúdo fica disponível durante uma semana.
+```
 
 ### 🎨 Interface
 
-#### Mobile
-
-<p align="center">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="assets/interface.png" width="200px">
-</p>
+<h1 align="center">
+  <img alt="interface" title="interface" src="assets/interface.png">
+</h1>
 
 ### :space_invader: Tecnologias
 
