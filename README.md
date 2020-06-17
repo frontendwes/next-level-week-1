@@ -72,58 +72,62 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ```bash
 Podemos considerar este projeto como sendo divido em três partes:
 
-1. Back End (pasta server)
+1. Back End (pasta backend)
 2. Front End (pasta web)
 3. Mobile (pasta mobile)
 
 Tanto o Front-End quanto o Mobile precisam que o Back-End esteja sendo executado para funcionar.
 ```
 
-### 1.Rodando o Back End (servidor)
+#### 1. Clone o repositório
 
 ```bash
 # Clone este repositório
 $ git clone https://github.com/WesleyMarquesGit/Ecoleta.git
+```
 
+#### 2. Rode o servidor (Back-End)
+
+```bash
 # Acesse a pasta do projeto no terminal/cmd
-$ cd Ecoleta
-
-# Vá para a pasta server
-$ cd backend
+$ cd Ecoleta/backend
 
 # Instale as dependências
 $ npm install
 
 # Execute a aplicação em modo de desenvolvimento
-$ npm run dev:server
+$ npm run dev
 
 # O servidor inciará na porta:3333 - acesse http://localhost:3333
 ```
 
-### 🧭 Rodando a aplicação web (Front End)
+#### 3. Rodando a aplicação web (Front-End)
 
 ```bash
-# Clone este repositório
-$ git clone https://github.com/WesleyMarquesGit/Ecoleta.git
-
 # Acesse a pasta do projeto no seu terminal/cmd
-$ cd ecoleta
-
-# Vá para a pasta da aplicação Front End
-$ cd web
+$ cd Ecoleta/web
 
 # Instale as dependências
 $ npm install
 
 # Execute a aplicação em modo de desenvolvimento
-$ npm run start
+$ npm start
 
 # A aplicação será aberta na porta:3000 - acesse http://localhost:3000
 ```
 
-### 📱Rodando a aplicação mobile
+#### 4. Rodando a aplicação mobile
 
-\$ npm install -g expo-cli
+```bash
+# Acesse a pasta do projeto no seu terminal/cmd
+$ cd Ecoleta/mobile
+
+# Instale as dependências
+$ npm install
+
+# Execute a aplicação em modo de desenvolvimento
+$ npm start
+```
 
 ## 😯 Como contribuir para o projeto
 
