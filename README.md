@@ -32,6 +32,8 @@ O NLW é uma experiência online com muito conteúdo prático, desafios e hacks 
   <img alt="interface" title="interface" src="assets/interface.PNG" width='100%'>
 </h1>
 
+#### UI completa: [Figma][figma]
+
 ---
 
 ### :space_invader: Tecnologias
@@ -176,3 +178,4 @@ Este projeto esta sobe a licença MIT.
 [vceslint]: https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
 [prettier]: https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
 [rs]: https://rocketseat.com.br
+[figma]: https://www.figma.com/file/9TlOcj6l7D05fZhU12xWT3/Ecoleta-(Booster)?node-id=0%3A1
