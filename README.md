@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Ecoleta" title="Ecoleta" src="assets/logo.png" />
+    <img alt="Ecoleta" title="Ecoleta" src="assets/logo.png" width='300px'/>
 </h1>
 
 <p align="center">
@@ -24,11 +24,15 @@ Ecoleta - é uma forma de conectar empresas e entidades de coleta de resíduos o
 Projeto desenvolvido durante a **NLW - Next Level Week** oferecida pela [Rocketseat](rs).
 O NLW é uma experiência online com muito conteúdo prático, desafios e hacks onde o conteúdo fica disponível durante uma semana.
 
+---
+
 ### 🎨 Interface
 
 <h1 align="center">
-  <img alt="interface" title="interface" src="assets/interface.PNG" width='800px'>
+  <img alt="interface" title="interface" src="assets/interface.PNG" width='100%'>
 </h1>
+
+---
 
 ### :space_invader: Tecnologias
 
@@ -39,6 +43,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [React][reactjs]
 - [React Native][rn]
 - [TypeScript][typescript]
+
+---
 
 ### :computer: Manual para execução
 
@@ -111,18 +117,30 @@ $ npm install
 $ npm start
 ```
 
-### :recycle: Como contribuir para o projeto
+---
 
-1. Faça um **fork** do projeto.
-2. Crie uma nova branch com as suas alterações: `git checkout -b my-feature`
-3. Salve as alterações e crie uma mensagem de commit contando o que você fez: `git commit -m "feature: My new feature"`
-4. Envie as suas alterações: `git push origin my-feature`
+### Como contribuir para o projeto
 
-### :page_with_curl: Licença
+```bash
+# Faça um fork do projeto.
 
+# Crie uma nova branch com as suas alterações
+$ git checkout -b my-feature
+
+# Salve as alterações e crie uma mensagem de commit contando o que você fez
+$ git commit -m "feature: My new feature"
+
+# Envie as suas alterações
+$ git push origin my-feature
+```
+
+### Licença
+
+```bash
 Este projeto esta sobe a licença MIT.
+```
 
-### :iphone: Social
+### Social
 
 <p align="left">
   
